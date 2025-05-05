@@ -42,6 +42,10 @@ npm run dev
 npm run build
 ```
 
+## 🌐 Live Demo
+
+Check out the live demo of this portfolio at: [https://alben-portfoliovue.netlify.app](https://alben-portfoliovue.netlify.app)
+
 ## 📄 License
 
 MIT License - feel free to use this code for your own portfolio!
