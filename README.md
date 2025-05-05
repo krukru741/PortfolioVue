@@ -27,7 +27,7 @@ A modern, responsive portfolio website built with Vue.js and Tailwind CSS, showc
 2. **Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/krukru741/portfolio-vue.git
+git clone https://github.com/krukru741/PortfolioVue
 cd portfolio-vue
 
 # Install dependencies
@@ -49,7 +49,7 @@ MIT License - feel free to use this code for your own portfolio!
 ## 📞 Contact
 
 - Email: albengacayan456@gmail.com
-- Location: Capitol 4, Talisay City, Cebu - 6045
+- Location: Camp IV, Talisay City, Cebu - 6045
 - Phone: 0962 152 6219
 
 ---
